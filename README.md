@@ -1,5 +1,5 @@
 # NIFTY500_dataset
-This repository contains dataset of stocks of NIFTY500 listed companies. 
+This repository contains dataset of OHLC of stocks of NIFTY500 listed companies. 
 
 
 ## Context
